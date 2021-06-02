@@ -4,4 +4,4 @@ Click==7.0
 dnsimple==1.2.0
 idna==2.9
 requests==2.23.0
-urllib3==1.25.8
+urllib3==1.26.5
